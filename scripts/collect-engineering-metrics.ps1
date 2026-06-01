@@ -177,3 +177,5 @@ if ($copilotOutputPath) {
     Write-Host "Copilot metrics JSON: $copilotOutputPath"
 }
 
+$global:LASTEXITCODE = 0
+
