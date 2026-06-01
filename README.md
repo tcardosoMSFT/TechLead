@@ -45,7 +45,7 @@ TechLead/
 
 3. Use the scenario playbooks in `docs/scenarios` to introduce the patterns with your teams.
 
-4. Use the environment runbooks in `docs/runbooks` to apply each scenario inside a real team or organization.
+4. Use the bilingual environment runbooks in `docs/runbooks` to apply each scenario inside a real team or organization.
 
 ## Notes
 
